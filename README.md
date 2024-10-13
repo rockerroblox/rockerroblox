@@ -23,7 +23,7 @@ I'm a developer aiming for game development and full stack.
 
 ## my tools
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,blender,windows,react,photoshop,illustrator,github,vscode,npm,raspberrypi,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,blender,windows,photoshop,illustrator,github,vscode,npm,raspberrypi,vite)](https://skillicons.dev)
 
 ## my libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,discordjs,vite,discordjs)](https://skillicons.dev)
