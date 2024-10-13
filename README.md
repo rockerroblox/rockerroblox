@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there!👋
 
 <!--
 **rockerroblox/rockerroblox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer aiming for game development and full stack.
+
+## my languages
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python)](https://skillicons.dev)
+
+## my tools
+
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,blender,windows,react,photoshop,illustrator,github,vscode,npm,raspberrypi,vite)](https://skillicons.dev)
+
+## my libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,discordjs,vite,discordjs)](https://skillicons.dev)
+
+## what im learning
+[![My Skills](https://skillicons.dev/icons?i=swift,express,c,java)](https://skillicons.dev)
+
+
+I'm currently trying to develop Minecraft mods.
