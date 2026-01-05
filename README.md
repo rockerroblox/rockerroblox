@@ -39,4 +39,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=go,cs,)](https://skillicons.dev)
 
 ### Recent Activity
+<!--START_SECTION:activity-->
 ``
