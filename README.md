@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rockerroblox&label=Profile%20views&color=0e75b6&style=flat" alt="rockerroblox" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rockerroblox&theme=radical" alt="rockerroblox" />
-  </a>
-</p>
----
+
 
 ### 🚀 About Me
 * 🔭 Currently working on PyTasty, an educational RAT program designed for learning how to combat attack chains
