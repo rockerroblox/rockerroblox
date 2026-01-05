@@ -15,21 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer aiming for game development and full stack.
+### 🚀 About Me
+* 🔭 Currently working on PyTasty, an educational RAT program designed for learning how to combat attack chains
+* 🛰️ Also currently working on Superlight, a Lightspeed Filter Agent bypass suite.
 
-## my languages
+## Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,nodejs,nextjs)](https://skillicons.dev)
 
-## my tools
+## Development
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,blender,windows,photoshop,illustrator,github,vscode,npm,raspberrypi,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,powershell,windows,lua)](https://skillicons.dev)
 
-## my libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,discordjs,vite,discordjs)](https://skillicons.dev)
+## Development Tools 
 
-## what im learning
-[![My Skills](https://skillicons.dev/icons?i=swift,express,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,kali,linux,discord,supabase)](https://skillicons.dev)
+
+## Other Skills
+[![My Skills](https://skillicons.dev/icons?i=photoshop,blender,figma,roblox)](https://skillicons.dev)
+
+## Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=go,cs,)](https://skillicons.dev)
 
 
-I'm currently trying to develop Minecraft mods.
+- name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.4.6
