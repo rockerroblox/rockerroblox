@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=go,cs,)](https://skillicons.dev)
 
+![Snake animation](https://github.com/rockerroblox/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
+
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#43204](https://github.com/timburgan/timburgan/issues/43204) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
