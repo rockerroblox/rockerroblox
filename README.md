@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43204](https://github.com/timburgan/timburgan/issues/43204) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗ Opened issue [#43202](https://github.com/timburgan/timburgan/issues/43202) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗ Opened issue [#2](https://github.com/2pro12342/2pros-Bypass-Hub/issues/2) in [2pro12342/2pros-Bypass-Hub](https://github.com/2pro12342/2pros-Bypass-Hub)
+1. 🎉 Merged PR [#1](https://github.com/rockerroblox/superlight/pull/1) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+2. 💪 Opened PR [#1](https://github.com/rockerroblox/superlight/pull/1) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+3. ❗ Opened issue [#43204](https://github.com/timburgan/timburgan/issues/43204) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 ``
