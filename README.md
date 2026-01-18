@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Development
 
-[![My Skills](https://skillicons.dev/icons?i=python,powershell,windows,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,powershell,windows,lua,nim)](https://skillicons.dev)
 
 ## Development Tools 
 
