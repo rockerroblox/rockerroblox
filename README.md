@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/rockerroblox/Impero-Lens/issues/1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
-2. 🚀 Published release [Impero Lens 1.0](https://github.com/rockerroblox/Impero-Lens/releases/tag/v1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
-3. 🗣 Commented on [#2](https://github.com/rockerroblox/superlight/pull/2#issuecomment-3765429092) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+1. ❗ Opened issue [#56](https://github.com/crabby-rathbun/mjrathbun-website/issues/56) in [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website)
+2. ❗ Opened issue [#1](https://github.com/rockerroblox/Impero-Lens/issues/1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
+3. 🚀 Published release [Impero Lens 1.0](https://github.com/rockerroblox/Impero-Lens/releases/tag/v1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
 <!--END_SECTION:activity-->
 ``
