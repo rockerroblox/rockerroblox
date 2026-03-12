@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/crabby-rathbun/mjrathbun-website/issues/56) in [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website)
-2. ❗ Opened issue [#1](https://github.com/rockerroblox/Impero-Lens/issues/1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
+1. ❗ Opened issue [#3](https://github.com/JebbyCodes/Jebbys-Jailbreak/issues/3) in [JebbyCodes/Jebbys-Jailbreak](https://github.com/JebbyCodes/Jebbys-Jailbreak)
+2. ❗ Opened issue [#56](https://github.com/crabby-rathbun/mjrathbun-website/issues/56) in [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website)
 3. 🚀 Published release [Impero Lens 1.0](https://github.com/rockerroblox/Impero-Lens/releases/tag/v1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
 <!--END_SECTION:activity-->
 ``
