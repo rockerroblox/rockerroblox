@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/JebbyCodes/Jebbys-Jailbreak/issues/3) in [JebbyCodes/Jebbys-Jailbreak](https://github.com/JebbyCodes/Jebbys-Jailbreak)
-2. ❗ Opened issue [#56](https://github.com/crabby-rathbun/mjrathbun-website/issues/56) in [crabby-rathbun/mjrathbun-website](https://github.com/crabby-rathbun/mjrathbun-website)
-3. 🚀 Published release [Impero Lens 1.0](https://github.com/rockerroblox/Impero-Lens/releases/tag/v1) in [rockerroblox/Impero-Lens](https://github.com/rockerroblox/Impero-Lens)
+1. 🔒 Closed issue [#4](https://github.com/rockerroblox/superlight/issues/4) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+2. 🗣 Commented on [#4](https://github.com/rockerroblox/superlight/issues/4#issuecomment-4138553404) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+3. ❗ Opened issue [#3](https://github.com/JebbyCodes/Jebbys-Jailbreak/issues/3) in [JebbyCodes/Jebbys-Jailbreak](https://github.com/JebbyCodes/Jebbys-Jailbreak)
 <!--END_SECTION:activity-->
 ``
