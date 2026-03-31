@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/rockerroblox/superlight/issues/4) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
-2. 🗣 Commented on [#4](https://github.com/rockerroblox/superlight/issues/4#issuecomment-4138553404) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
-3. ❗ Opened issue [#3](https://github.com/JebbyCodes/Jebbys-Jailbreak/issues/3) in [JebbyCodes/Jebbys-Jailbreak](https://github.com/JebbyCodes/Jebbys-Jailbreak)
+1. 💪 Opened PR [#23](https://github.com/NikOverflow/ExploitPreventer/pull/23) in [NikOverflow/ExploitPreventer](https://github.com/NikOverflow/ExploitPreventer)
+2. 🔒 Closed issue [#4](https://github.com/rockerroblox/superlight/issues/4) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+3. 🗣 Commented on [#4](https://github.com/rockerroblox/superlight/issues/4#issuecomment-4138553404) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
 <!--END_SECTION:activity-->
 ``
