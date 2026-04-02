@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/NikOverflow/ExploitPreventer/pull/23) in [NikOverflow/ExploitPreventer](https://github.com/NikOverflow/ExploitPreventer)
-2. 🔒 Closed issue [#4](https://github.com/rockerroblox/superlight/issues/4) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
-3. 🗣 Commented on [#4](https://github.com/rockerroblox/superlight/issues/4#issuecomment-4138553404) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+1. 🗣 Commented on [#5](https://github.com/rockerroblox/superlight/issues/5#issuecomment-4177579628) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+2. 🔒 Closed issue [#5](https://github.com/rockerroblox/superlight/issues/5) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+3. 💪 Opened PR [#23](https://github.com/NikOverflow/ExploitPreventer/pull/23) in [NikOverflow/ExploitPreventer](https://github.com/NikOverflow/ExploitPreventer)
 <!--END_SECTION:activity-->
 ``
