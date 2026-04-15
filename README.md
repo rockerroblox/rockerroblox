@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44002](https://github.com/timburgan/timburgan/issues/44002) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗ Opened issue [#43993](https://github.com/timburgan/timburgan/issues/43993) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. 🗣 Commented on [#5](https://github.com/rockerroblox/superlight/issues/5#issuecomment-4177579628) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+1. ℹ️ Labeled issue [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+2. ❗ Opened issue [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+3. 🗣 Commented on [#110](https://github.com/OpenCoworkAI/open-cowork/issues/110#issuecomment-4251699717) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 <!--END_SECTION:activity-->
 ``
