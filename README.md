@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
-2. ❗ Opened issue [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
-3. 🗣 Commented on [#110](https://github.com/OpenCoworkAI/open-cowork/issues/110#issuecomment-4251699717) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+1. 🔒 Closed issue [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+2. 🗣 Commented on [#111](https://github.com/OpenCoworkAI/open-cowork/issues/111#issuecomment-4253097998) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
+3. 🗣 Commented on [#110](https://github.com/OpenCoworkAI/open-cowork/issues/110#issuecomment-4253091571) in [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork)
 <!--END_SECTION:activity-->
 ``
