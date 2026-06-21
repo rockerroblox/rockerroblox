@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#45](https://github.com/Nightmare-Eclipse/YellowKey/issues/45) in [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
-2. 🗣 Commented on [#105](https://github.com/PurpleAILAB/Decepticon/issues/105#issuecomment-4355931734) in [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
+1. 💪 Opened PR [#6](https://github.com/rockerroblox/superlight/pull/6) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+2. ❗ Opened issue [#45](https://github.com/Nightmare-Eclipse/YellowKey/issues/45) in [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
 3. 🗣 Commented on [#256](https://github.com/OpenCoworkAI/open-codesign/issues/256#issuecomment-4355377652) in [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
 <!--END_SECTION:activity-->
 ``
