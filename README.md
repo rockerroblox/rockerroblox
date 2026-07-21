@@ -21,8 +21,8 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/2pro12342/Hyper-Client/issues/1#issuecomment-4962457374) in [2pro12342/Hyper-Client](https://github.com/2pro12342/Hyper-Client)
-2. ❗ Opened issue [#1](https://github.com/2pro12342/Hyper-Client/issues/1) in [2pro12342/Hyper-Client](https://github.com/2pro12342/Hyper-Client)
-3. 💪 Opened PR [#6](https://github.com/rockerroblox/superlight/pull/6) in [rockerroblox/superlight](https://github.com/rockerroblox/superlight)
+1. 🗣 Commented on [#2](https://github.com/Zyrecx/TFlix/issues/2#issuecomment-5038020016) in [Zyrecx/TFlix](https://github.com/Zyrecx/TFlix)
+2. 🗣 Commented on [#1](https://github.com/2pro12342/Hyper-Client/issues/1#issuecomment-4962457374) in [2pro12342/Hyper-Client](https://github.com/2pro12342/Hyper-Client)
+3. ❗ Opened issue [#1](https://github.com/2pro12342/Hyper-Client/issues/1) in [2pro12342/Hyper-Client](https://github.com/2pro12342/Hyper-Client)
 <!--END_SECTION:activity-->
 ``
